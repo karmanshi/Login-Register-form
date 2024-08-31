@@ -66,6 +66,8 @@ const RegisterForm = () => {
                                     required=""
                                     value={formData.email}
                                     onChange={handleChange}
+                                    
+                                    
                                 />
                             </div>
                             <div>
